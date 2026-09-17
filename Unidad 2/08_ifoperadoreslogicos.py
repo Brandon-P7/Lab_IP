@@ -22,3 +22,7 @@ if es_mayor and documento_valido and sin_adeudo:
 else:
     autorizado = False
 print(autorizado)
+
+#en condicionales, el if siempre debe ir primero, el elif siempre va antes del Else y else al final de todo
+# elif se ejecuta si se cumple o no el "if" es un "entonces" realmente va a creatividad para usarla junto a la eficacia
+#Siempre optimizar el codigo, se llama perdida en costo computacional porque el sistema se hace mas lento.
