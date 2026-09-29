@@ -1,4 +1,4 @@
-edad = 18
+edad = 18 #usando bools
 tiene_credencial = True
 tiene_adeudo = False
 
