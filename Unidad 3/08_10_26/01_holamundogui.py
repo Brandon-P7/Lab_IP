@@ -1,10 +1,10 @@
-from flask import Flask, render_template_string
+from flask import Flask
 
-app = Flask(__name__)
+app = Flask (__name__)
 
 @app.route("/")
-
 def hola_mundo():
-    return "<h1> ¡Hola mundo desde Fa¿lask! </h1>]"
+    return "<h1> ]¡Hola mundo desde flask 6767!</h1>"
 
-if 
+if __name__ == "__main__":
+    app.run(debug=True)
